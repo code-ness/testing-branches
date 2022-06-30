@@ -5,4 +5,4 @@ new-branch
 
 feature
 
-feature local
+feature local rebase
