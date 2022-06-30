@@ -5,4 +5,6 @@ new-branch
 
 feature
 
-feature local rebase feature
+feature local rebase
+
+rebase dev dev
